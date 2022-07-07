@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuliTCastillo
+- 👋 Hi, I’m Julieta Tatiana Castillo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning how to work fullStack
 
