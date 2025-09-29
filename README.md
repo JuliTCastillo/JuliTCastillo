@@ -1,11 +1,4 @@
-<style>
-  .divPresentacion{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-</style>
-<div class="divPresentacion">
+<div align="center">
   <h1>Julieta Tatiana Castillo</h1>
   <p>💻 Estudiante en ingenieria informatica y desarrolladora FullStack.</p>
   <p>✨ Me interesa el desarrollo **backend** y **frontend**, quiero ejercer proyecto que me desafien y poner en práctica todo lo que puede aprender en mis cursos.</p>
