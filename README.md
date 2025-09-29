@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Julieta Tatiana Castillo
 
-<!--
-**JuliTCastillo/JuliTCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante en ingenieria informatica y desarrolladora FullStack.  
+✨ Me interesa el desarrollo **backend** y **frontend**, quiero ejercer proyecto que me desafien y poner en práctica todo lo que puede aprender en mis cursos.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
+- Java / Spring Boot  
+- Python / FastAPI  
+- JavaScript / TypeScript / Angular  
+- SQL / PostgreSQL / MySQL  
+- Git / GitHub / Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+- [LinkedIn](https://www.linkedin.com/in/julieta-tatiana-castillo/)  
