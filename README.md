@@ -6,7 +6,7 @@
 <p>✨ Me interesa el desarrollo <b>backend</b> y <b>frontend</b>, quiero ejercer proyecto que me desafien y poner en práctica todo lo que puede aprender en mis cursos.</p>
 
 ## 🚀 Tecnologías
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,javascript,python,angular,postgresql,docker" />
 </p>
 
