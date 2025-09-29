@@ -7,16 +7,12 @@
 
 ## 🚀 Tecnologías
 <p>
-  <img src="https://img.shields.io/badge/Java-9D140D?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/typeScript-4180AB?style=for-the-badge&logo=typescriptt&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-bdd1de?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,angular,postgresql,docker" />
 </p>
 
 ## 📫 Contacto
 <p>
-  <a href="[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/julieta-tatiana-castillo/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/julieta-tatiana-castillo/" target="_black">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
